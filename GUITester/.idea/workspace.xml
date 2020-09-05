@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GUITester:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bf6d697-fa1b-40db-9b76-950b4a71cf5c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dOYvZHpF4WJbxdCX5p9lAk3gxs" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="ToolWindow" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="267" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Aplikacja Dydaktyczna" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.aplikacjaDydaktyczna">
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blogspot.terminalcoders.MainWindow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blogspot.terminalcoders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RC4" />
+      <module name="GUITester" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aplikacjaDydaktyczna" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aplikacjaDydaktyczna" />
+      <module name="GUITester" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiffieHellmanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GUITester" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DiffieHellmanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GUITester" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RSATest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AESTest" type="TestNG" nameIsGenerated="true">
+      <module name="GUITester" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AESTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.aplikacjaDydaktyczna" />
+        <item itemvalue="Application.MainWindow" />
+        <item itemvalue="JUnit.RSATest" />
+        <item itemvalue="JUnit.DiffieHellmanTest" />
+        <item itemvalue="Application.RC4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf6d697-fa1b-40db-9b76-950b4a71cf5c" name="Default Changelist" comment="" />
+      <created>1592297837789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592297837789</updated>
+      <workItem from="1592297843256" duration="21855000" />
+      <workItem from="1592331224431" duration="1015000" />
+      <workItem from="1592346307408" duration="69000" />
+      <workItem from="1592346425676" duration="112000" />
+      <workItem from="1592346610384" duration="2846000" />
+      <workItem from="1592349498491" duration="1925000" />
+      <workItem from="1592391809543" duration="2533000" />
+      <workItem from="1592412130589" duration="289000" />
+      <workItem from="1592412885554" duration="589000" />
+      <workItem from="1592494775065" duration="10091000" />
+      <workItem from="1592561281448" duration="3623000" />
+      <workItem from="1592660145933" duration="1206000" />
+      <workItem from="1592815411515" duration="1710000" />
+      <workItem from="1592818257768" duration="9243000" />
+      <workItem from="1592851509952" duration="6081000" />
+      <workItem from="1592993396420" duration="122000" />
+      <workItem from="1593116711725" duration="451000" />
+      <workItem from="1593117370288" duration="748000" />
+      <workItem from="1593245562721" duration="5893000" />
+      <workItem from="1593262328348" duration="11513000" />
+      <workItem from="1593294259867" duration="6922000" />
+      <workItem from="1593336908760" duration="5864000" />
+      <workItem from="1593350511028" duration="5437000" />
+      <workItem from="1593360591841" duration="718000" />
+      <workItem from="1593361464824" duration="38791000" />
+      <workItem from="1593422728871" duration="1717000" />
+      <workItem from="1593464692255" duration="601000" />
+      <workItem from="1593629851412" duration="13759000" />
+      <workItem from="1593721804186" duration="3521000" />
+      <workItem from="1593781614868" duration="23926000" />
+      <workItem from="1593976584378" duration="3222000" />
+      <workItem from="1593989814450" duration="349000" />
+      <workItem from="1593994796594" duration="2285000" />
+      <workItem from="1593997734902" duration="1310000" />
+      <workItem from="1594039725084" duration="495000" />
+      <workItem from="1594050644854" duration="2067000" />
+      <workItem from="1594071665896" duration="277000" />
+      <workItem from="1594102634715" duration="396000" />
+      <workItem from="1594187411291" duration="37000" />
+      <workItem from="1594760016871" duration="140000" />
+      <workItem from="1598638499436" duration="754000" />
+      <workItem from="1598772505268" duration="2366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
